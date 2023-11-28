@@ -1,0 +1,48 @@
+div{
+    color: solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container{
+    background-color: black;
+    filter: opacity(70%);
+    width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+}
+
+header{
+background-color: black;
+    filter: opacity(80%);
+    width: 100%;
+    height: 150px;
+    margin: 0px;
+    color: white;
+    text-align: center;
+    line-height: 100px;
+}
+
+body{
+background-image: url(https://th.bing.com/th/id/R.17f1db76b510360e0bc65dc76bfb8352?rik=thyeD5qzmEeB%2fA&riu=http%3a%2f%2fwww.cronicanorte.es%2fwp-content%2fuploads%2f2012%2f10%2fhelvetia-balonmano.jpg&ehk=oTDdx0dtJwDfrYt%2bwP3cvPbZGHM2kyJpTeW5E8G4bx4%3d&risl=&pid=ImgRaw&r=0); width: 100%; color: #FFFFFF;background-repeat: no-repeat 
+}
+
+.clearfix{
+    clear: both;
+}
+
+#content{
+    width: 350px;
+    height: 300px;
+}
+
+footer {
+    color: black;
+}
+
+.article{
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 1px solid lightgreen;
+}
+
